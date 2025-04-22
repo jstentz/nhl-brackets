@@ -2,3 +2,5 @@ nhl-api-py
 polars
 ipykernel
 xgboost
+scikit-learn
+torch
